@@ -1,5 +1,5 @@
 
-# Truth or Dare Telegram Bot 🎲
+# Truth or Dare Telegram Bot 
 
 A Persian-language Telegram bot for playing **"Truth or Dare"** — built with Python and the `python-telegram-bot` library.
 
